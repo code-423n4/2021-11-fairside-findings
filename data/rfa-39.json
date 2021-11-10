@@ -1,0 +1,9 @@
+{
+  "contest": "FairSide contest",
+  "handle": "rfa",
+  "address": "0x95687C27DcE4D413a91A0E1fd0478F4751da8730",
+  "risk": "2",
+  "title": "self transfer can lead to user reset their conviction score",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2021-11-fairside-findings/issues/39"
+}
