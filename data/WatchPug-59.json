@@ -1,0 +1,9 @@
+{
+  "contest": "FairSide contest",
+  "handle": "WatchPug",
+  "address": "0x192bDD30D272AabC2B1c3c719c518F0f2d10cc60",
+  "risk": "G",
+  "title": "Using fixed length array as parameter type can avoid checks to save gas and improve consistency",
+  "issueId": 59,
+  "issueUrl": "https://github.com/code-423n4/2021-11-fairside-findings/issues/59"
+}
