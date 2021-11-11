@@ -1,0 +1,9 @@
+{
+  "contest": "FairSide contest",
+  "handle": "pmerkleplant",
+  "address": "0xbBf165d63a703B839BAdDF62e0AEa5aa230A4A05",
+  "risk": "0",
+  "title": "Add zero-address check to `token/FSD::_createVesting`",
+  "issueId": 53,
+  "issueUrl": "https://github.com/code-423n4/2021-11-fairside-findings/issues/53"
+}
