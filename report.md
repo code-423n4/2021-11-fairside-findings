@@ -1,3 +1,11 @@
+---
+sponsor: "FairSide"
+slug: "2021-11-fairside"
+date: "2021-12-16"
+title: "FairSide contest"
+findings: "https://github.com/code-423n4/2021-11-fairside-findings/issues"
+contest: 50
+---
 
 # Overview
 
